@@ -38,7 +38,7 @@ Based in Faridabad, Haryana, I'm currently pursuing my studies in Computer Scien
 
 ## Latest Blog Posts
 
-Check out my [personal website](https://aryanlabs.netlify.app/) for updates on my latest projects and thoughts!
+Check out my [personal website](https://aryan-verse.netlify.app/) for updates on my latest projects and thoughts!
 
 
 
