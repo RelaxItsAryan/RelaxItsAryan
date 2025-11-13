@@ -16,7 +16,9 @@ Based in Faridabad, Haryana, I'm currently pursuing my studies in Computer Scien
 <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="42" height="42" /></a><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a></p>
 
 
-
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/pacman.svg" alt="Snake animation" />
+</div>
 
 ## Top Projects
 
@@ -41,7 +43,6 @@ Based in Faridabad, Haryana, I'm currently pursuing my studies in Computer Scien
 - **Added files via upload** in [RelaxItsAryan](https://github.com/RelaxItsAryan/RelaxItsAryan) on August 18, 2025.
 - **Updated README.md** in [RelaxItsAryan](https://github.com/RelaxItsAryan/RelaxItsAryan) on August 18, 2025.
 - **Added files via upload** in [RelaxItsAryan](https://github.com/RelaxItsAryan/RelaxItsAryan) on August 18, 2025.
-
 ## Latest Blog Posts
 
 Check out my [personal website](https://aryan-verse.netlify.app/) for updates on my latest projects and thoughts!
