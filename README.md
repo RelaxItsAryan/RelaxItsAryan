@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" />
+</div>
+
 ## Hi there! 👋
 
 I'm Aryan, a motivated and ambitious first-year college student with a passion for Computer Science. I'm dedicated to academic excellence and eager to contribute to exciting projects in the tech world!
@@ -16,9 +20,7 @@ Based in Faridabad, Haryana, I'm currently pursuing my studies in Computer Scien
 <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="42" height="42" /></a><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a></p>
 
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/pacman.svg" alt="Snake animation" />
-</div>
+
 
 ## Top Projects
 
@@ -53,3 +55,6 @@ Check out my [personal website](https://aryan-verse.netlify.app/) for updates on
 
 <p><a target="_blank" href="https://www.linkedin.com/in/aryan-amit-arya" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/relaxits_aryan" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=#F35369" alt="instagram" /></a></p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/pacman.svg" alt="Snake animation" />
+</div>
