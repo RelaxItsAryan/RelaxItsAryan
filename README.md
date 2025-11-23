@@ -34,10 +34,6 @@ Based in Faridabad, Haryana, I'm currently pursuing my studies in Computer Scien
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RelaxItsAryan&show_icons=true&count_private=true&theme=radical)
 
-- **Public Repositories:** 1
-- **Followers:** 0
-- **Following:** 0
-
 ## Recent Activity
 
 - **Updated README.md** in [RelaxItsAryan](https://github.com/RelaxItsAryan/RelaxItsAryan) on August 18, 2025.
