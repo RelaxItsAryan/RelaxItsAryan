@@ -25,7 +25,7 @@ Based in Faridabad, Haryana, I'm currently pursuing my studies in Computer Scien
 
 - [RelaxItsAryan](https://github.com/RelaxItsAryan/RelaxItsAryan)
   - A personal repository showcasing my work and projects.
-  - ⭐ 6 stars | ⚡ 2 forks | 🐛 0 open issues
+  - ⭐ 9 stars | ⚡ 2 forks | 🐛 0 open issues
   - **Primary Language:** N/A
 
 
