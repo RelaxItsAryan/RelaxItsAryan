@@ -136,14 +136,7 @@ A personal repository containing experiments, learning projects, and practice wo
   <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RelaxItsAryan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&align="center") -->
 </div>
 
-
-## Recent Activity
-
-- **Updated README.md** in [RelaxItsAryan](https://github.com/RelaxItsAryan/RelaxItsAryan) on August 18, 2025.
-- **Added files via upload** in [RelaxItsAryan](https://github.com/RelaxItsAryan/RelaxItsAryan) on August 18, 2025.
-- **Updated README.md** in [RelaxItsAryan](https://github.com/RelaxItsAryan/RelaxItsAryan) on August 18, 2025.
-- **Added files via upload** in [RelaxItsAryan](https://github.com/RelaxItsAryan/RelaxItsAryan) on August 18, 2025.
-## Latest Blog Posts
+## Latest Projects
 
 Check out my [personal website](https://aryan-verse.netlify.app/) for updates on my latest projects and thoughts!
 
