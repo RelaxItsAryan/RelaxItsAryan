@@ -128,7 +128,14 @@ A personal repository containing experiments, learning projects, and practice wo
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RelaxItsAryan&show_icons=true&count_private=true&theme=radical)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RelaxItsAryan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=RelaxItsAryan&theme=dark&hide_border=false)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RelaxItsAryan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&align="center"">
+  <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RelaxItsAryan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&align="center") -->
+</div>
+
 
 ## Recent Activity
 
