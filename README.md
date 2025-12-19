@@ -21,12 +21,108 @@ Based in Faridabad, Haryana, I'm currently pursuing my studies in Computer Scien
 
 
 
-## Top Projects
+## 🌟 Projects (Detailed Overview)
 
-- [RelaxItsAryan](https://github.com/RelaxItsAryan/RelaxItsAryan)
-  - A personal repository showcasing my work and projects.
-  - ⭐ 12 stars | ⚡ 2 forks | 🐛 0 open issues
-  - **Primary Language:** N/A
+### 🎵 AryanBeats  
+🔗 **Live:** https://aryanbeats.netlify.app/
+
+**Description:**  
+AryanBeats is a music-themed website designed to deliver a smooth and engaging user experience. The project focuses on layout design, typography, and responsiveness while maintaining a clean and modern visual style.
+
+**What I Built & Learned:**
+- Designed a responsive and minimal UI
+- Structured content using semantic HTML
+- Styled components using modern CSS
+- Improved visual hierarchy and spacing
+
+**Tech Stack:**  
+`HTML` · `CSS` . `UI` . `Animations`
+
+---
+
+### 📘 OpenNotes Hub  
+🔗 **Live:** https://opennotes-hub.netlify.app/
+
+**Description:**  
+OpenNotes Hub is a student-focused notes-sharing platform created to make studying easier and more organized. The project emphasizes clarity, accessibility, and structured content presentation.
+
+**What I Built & Learned:**
+- Created an organized notes layout
+- Designed a clean interface for easy readability
+- Focused on usability for students
+- Practiced consistent styling across pages
+
+**Tech Stack:**  
+`HTML` · `CSS` . `JavaScript`
+
+---
+
+### 🎯 Interview Buddy  
+🔗 **Live:** https://interview-buddy.netlify.app/
+
+**Description:**  
+Interview Buddy is a preparation tool designed to help beginners get ready for interviews. It presents important topics in a simple and easy-to-understand format.
+
+**What I Built & Learned:**
+- Designed a beginner-friendly interface
+- Structured interview preparation content
+- Improved layout consistency
+- Learned how to present information clearly
+
+**Tech Stack:**  
+`HTML` · `CSS` . `JavaScript` . `Web Speech API` 
+
+---
+
+### ✨ AryanVerse Particles  
+🔗 **Live:** https://aryanverseparticles.netlify.app/
+
+**Description:**  
+AryanVerse Particles is an interactive creative project that showcases particle animations and motion effects. It focuses on visual creativity and user's Hand Gesture interaction.
+
+**What I Built & Learned:**
+- Implemented particle-based animations
+- uses hand gesture to control the particles
+- Improved performance and smooth motion
+- Learned how animations enhance user experience
+
+**Tech Stack:**  
+`JavaScript` · `HTML` · `CSS` . `Three.js` . `WebGL` . `MediaPipe` . `GLSL Shaders`
+
+---
+
+### 🔤 Aryan Name Particles  
+🔗 **Live:** https://aryan-name-particles.netlify.app/
+
+**Description:**  
+Aryan Name Particles is a personal branding project where my name is displayed using animated particles, combining creativity with frontend development.
+
+**What I Built & Learned:**
+- Built custom text-based particle animations
+- Improved animation timing and transitions
+- Enhanced personal branding through visuals
+- Practiced creative coding techniques
+
+**Tech Stack:**  
+`Three.js` · `JavaScript` · `GSAP` · `HTML` · `CSS` · `WebGL`
+
+---
+
+## 📂 Other Work
+
+### 🧠 RelaxItsAryan  
+**Description:**  
+A personal repository containing experiments, learning projects, and practice work created during my journey in computer science and frontend development.
+
+---
+
+## 🎯 Future Goals
+
+- Learn advanced **JavaScript** concepts
+- Start working with **React and modern frameworks**
+- Build more **interactive and animation-driven projects**
+- Contribute to **open-source projects**
+
 
 
 
