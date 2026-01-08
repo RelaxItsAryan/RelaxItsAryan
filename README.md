@@ -17,7 +17,7 @@ Based in Faridabad, Haryana, I'm currently pursuing my studies in Computer Scien
 ## Skills & Technologies
 
 ### 💻 Languages & Scripting
- ![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  	![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![MARKDOWN](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![GDSCRIPT](https://img.shields.io/badge/hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
+ ![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  	![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![MARKDOWN](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![THREEJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-93CF2B?style=for-the-badge&logo=greensock&logoColor=white) ![VITE](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
@@ -30,6 +30,24 @@ Based in Faridabad, Haryana, I'm currently pursuing my studies in Computer Scien
 
 
 ## 🌟 Projects (Detailed Overview)
+
+### 🌵 Desert Runner
+🔗 Live: https://desert-runner-still-loading.netlify.app/
+
+**Description:**
+
+Desert Runner is a browser-based endless runner game built during a game jam, where the player navigates through a desert environment while avoiding obstacles. The entire game was developed without using any game engine, relying purely on modern web development technologies.
+
+**What I Built & Learned:**
+
+-Built a complete endless runner game using browser APIs
+-Implemented custom game logic without any game engine
+-Designed obstacle movement, player controls, and collision handling
+-Improved understanding of game loops and animations in the browser
+-Learned effective team collaboration under game jam time constraints
+
+**Tech Stack:**
+`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `HTML` · `CSS` · `JavaScript`
 
 ### 🎵 AryanBeats  
 🔗 **Live:** https://aryanbeats.netlify.app/
