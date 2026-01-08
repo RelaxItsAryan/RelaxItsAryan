@@ -10,6 +10,14 @@ I'm Aryan, a motivated and ambitious first-year college student with a passion f
 
 Based in Faridabad, Haryana, I'm currently pursuing my studies in Computer Science. I strive to learn and grow in the field while contributing to innovative projects that make a difference.
 
+## Portfolio
+
+Check out my [personal website](https://aryan-verse.netlify.app/) for updates on my latest projects and achievements!
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rakshitrajvit&label=Profile%20views&color=770677&style=for-the-badge&logo=star" style="padding-right:20px;" />
+</p>
+
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/pacman.svg" alt="Snake animation" />
 </div>
@@ -179,14 +187,6 @@ A personal repository containing experiments, learning projects, and practice wo
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
 </div>
-
-## Latest Projects
-
-Check out my [personal website](https://aryan-verse.netlify.app/) for updates on my latest projects and achievements!
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rakshitrajvit&label=Profile%20views&color=770677&style=for-the-badge&logo=star" style="padding-right:20px;" />
-</p>
 
 ## Connect with Me
 
