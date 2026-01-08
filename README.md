@@ -166,7 +166,9 @@ A personal repository containing experiments, learning projects, and practice wo
 
 Check out my [personal website](https://aryan-verse.netlify.app/) for updates on my latest projects and achievements!
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rakshitrajvit&label=Profile%20views&color=770677&style=for-the-badge&logo=star" style="padding-right:20px;" />
+</p>
 
 ## Connect with Me
 
