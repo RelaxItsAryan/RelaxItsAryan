@@ -125,7 +125,7 @@ AryanVerse Particles is an interactive creative project that showcases particle 
 
 ---
 
-### 🔤 Aryan Name Particles  
+### 🔤 Particle Text Morphing  
 🔗 **Live:** https://aryan-name-particles.netlify.app/
 
 **Description:**  
