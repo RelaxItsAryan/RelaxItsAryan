@@ -126,7 +126,7 @@ AryanVerse Particles is an interactive creative project that showcases particle 
 ---
 
 ### 🔤 Particle Text Morphing  
-🔗 **Live:** https://aryan-name-particles.netlify.app/
+🔗 **Live:** https://particle-text-morphing.vercel.app/
 
 **Description:**  
 Aryan Name Particles is a personal branding project where my name is displayed using animated particles, combining creativity with frontend development.
