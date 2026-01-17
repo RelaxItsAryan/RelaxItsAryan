@@ -148,8 +148,8 @@ Aryan Name Particles is a personal branding project where my name is displayed u
 
 ## 🎯 Future Goals
 
-- Learn advanced **JavaScript** concepts
-- Start working with **React and modern frameworks**
+- Learn advanced **Backend** concepts
+- Start working with **MongoDB and modern frameworks**
 - Build more **interactive and animation-driven projects**
 - Contribute to **open-source projects**
 
