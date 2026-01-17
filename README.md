@@ -6,11 +6,11 @@
 
 I'm Aryan, a motivated and ambitious first-year college student with a passion for Computer Science. I'm dedicated to academic excellence and eager to contribute to exciting projects in the tech world!
 
-## About Me
+## 🫠 About Me
 
 Based in Faridabad, Haryana, I'm currently pursuing my studies in Computer Science. I strive to learn and grow in the field while contributing to innovative projects that make a difference.
 
-## Portfolio
+## 🌐  Portfolio
 
 Check out my [personal website](https://aryan-verse.netlify.app/) for updates on my latest projects and achievements!
 
@@ -22,7 +22,7 @@ Check out my [personal website](https://aryan-verse.netlify.app/) for updates on
   <img src="https://profile-readme-generator.com/assets/pacman.svg" alt="Snake animation" />
 </div>
 
-## Skills & Technologies
+## 🧑‍💻 Skills & Technologies
 
 ### 💻 Languages & Scripting
  ![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  	![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![MARKDOWN](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
@@ -145,13 +145,6 @@ Aryan Name Particles is a personal branding project where my name is displayed u
 
 ---
 
-## 📂 Other Work
-
-### 🧠 RelaxItsAryan  
-**Description:**  
-A personal repository containing experiments, learning projects, and practice work created during my journey in computer science and frontend development.
-
----
 
 ## 🎯 Future Goals
 
