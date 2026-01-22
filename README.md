@@ -60,7 +60,7 @@ Desert Runner is a browser-based endless runner game built during a game jam, wh
 **Tech Stack:**
 `React` · `TypeScript` · `Vite` · `Tailwind CSS` · `HTML` · `CSS` · `JavaScript`
 
-### 🎵 AryanBeats  
+### 🎵 Aryan Beats  
 🔗 **Live:** https://aryanbeats.netlify.app/
 
 **Description:**  
