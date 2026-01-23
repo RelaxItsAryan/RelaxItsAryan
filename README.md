@@ -12,7 +12,7 @@ Based in Faridabad, Haryana, I'm currently pursuing my studies in Computer Scien
 
 ## 🌐  Portfolio
 
-Check out my [personal website](https://aryan-verse.netlify.app/) for updates on my latest projects and achievements!
+Check out my [PORTFOLIO Website](https://aryan-verse.netlify.app/) for updates on my latest projects and achievements!
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rakshitrajvit&label=Profile%20views&color=770677&style=for-the-badge&logo=star" style="padding-right:20px;" />
@@ -43,7 +43,7 @@ Check out my [personal website](https://aryan-verse.netlify.app/) for updates on
 ## 🌟 Projects (Detailed Overview)
 
 ### 🌵 Desert Runner
-🔗 Live: https://desert-runner-still-loading.netlify.app/
+🔗 Live: [Click Here](https://desert-runner-still-loading.netlify.app/)
 
 **Description:**
 
@@ -61,7 +61,7 @@ Desert Runner is a browser-based endless runner game built during a game jam, wh
 `React` · `TypeScript` · `Vite` · `Tailwind CSS` · `HTML` · `CSS` · `JavaScript`
 
 ### 🎵 Aryan Beats  
-🔗 **Live:** https://aryanbeats.netlify.app/
+🔗 **Live:** [Click Here](https://aryanbeats.netlify.app/)
 
 **Description:**  
 AryanBeats is a music-themed website designed to deliver a smooth and engaging user experience. The project focuses on layout design, typography, and responsiveness while maintaining a clean and modern visual style.
@@ -78,7 +78,7 @@ AryanBeats is a music-themed website designed to deliver a smooth and engaging u
 ---
 
 ### 📘 OpenNotes Hub  
-🔗 **Live:** https://opennotes-hub.netlify.app/
+🔗 **Live:** [Click Here](https://opennotes-hub.netlify.app/)
 
 **Description:**  
 OpenNotes Hub is a student-focused notes-sharing platform created to make studying easier and more organized. The project emphasizes clarity, accessibility, and structured content presentation.
@@ -95,7 +95,7 @@ OpenNotes Hub is a student-focused notes-sharing platform created to make studyi
 ---
 
 ### 🎯 Interview Buddy  
-🔗 **Live:** https://interview-buddy.netlify.app/
+🔗 **Live:** [Click Here](https://interview-buddy.netlify.app/)
 
 **Description:**  
 Interview Buddy is a preparation tool designed to help beginners get ready for interviews. It presents important topics in a simple and easy-to-understand format.
@@ -112,7 +112,7 @@ Interview Buddy is a preparation tool designed to help beginners get ready for i
 ---
 
 ### ✨ AryanVerse Particles  
-🔗 **Live:** https://aryanverseparticles.netlify.app/
+🔗 **Live:** [Click Here](https://aryanverseparticles.netlify.app/)
 
 **Description:**  
 AryanVerse Particles is an interactive creative project that showcases particle animations and motion effects. It focuses on visual creativity and user's Hand Gesture interaction.
@@ -129,7 +129,7 @@ AryanVerse Particles is an interactive creative project that showcases particle 
 ---
 
 ### 🔤 Particle Text Morphing  
-🔗 **Live:** https://particle-text-morphing.vercel.app/
+🔗 **Live:** [Click Here](https://particle-text-morphing.vercel.app/)
 
 **Description:**  
 Aryan Name Particles is a personal branding project where my name is displayed using animated particles, combining creativity with frontend development.
