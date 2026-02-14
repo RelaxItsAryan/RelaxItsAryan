@@ -42,35 +42,24 @@ Check out my [Portfolio Website](https://aryan-verse.netlify.app/) for my latest
 
 ## 🌟 Projects (Detailed Overview)
 
+### 🩺 Nova Care
+🔗 Live: [Click Here](https://nova-care-still-loading.vercel.app/)
+
+**Tech Stack:**
+`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `JavaScript`· `API`
+
+---
+
 ### 🌵 Desert Runner
 🔗 Live: [Click Here](https://desert-runner-still-loading.netlify.app/)
 
-**Description:**
-
-Desert Runner is a browser-based endless runner game built during a game jam, where the player navigates through a desert environment while avoiding obstacles. The entire game was developed without using any game engine, relying purely on modern web development technologies.
-
-**What I Built & Learned:**
-
--Built a complete endless runner game using browser APIs
--Implemented custom game logic without any game engine
--Designed obstacle movement, player controls, and collision handling
--Improved understanding of game loops and animations in the browser
--Learned effective team collaboration under game jam time constraints
-
 **Tech Stack:**
-`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `HTML` · `CSS` · `JavaScript`
+`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `HTML` · `JavaScript`
+
+---
 
 ### 🎵 Aryan Beats  
 🔗 **Live:** [Click Here](https://aryanbeats.netlify.app/)
-
-**Description:**  
-AryanBeats is a music-themed website designed to deliver a smooth and engaging user experience. The project focuses on layout design, typography, and responsiveness while maintaining a clean and modern visual style.
-
-**What I Built & Learned:**
-- Designed a responsive and minimal UI
-- Structured content using semantic HTML
-- Styled components using modern CSS
-- Improved visual hierarchy and spacing
 
 **Tech Stack:**  
 `HTML` · `CSS` . `UI` . `Animations`
@@ -80,15 +69,6 @@ AryanBeats is a music-themed website designed to deliver a smooth and engaging u
 ### 📘 OpenNotes Hub  
 🔗 **Live:** [Click Here](https://opennotes-hub.netlify.app/)
 
-**Description:**  
-OpenNotes Hub is a student-focused notes-sharing platform created to make studying easier and more organized. The project emphasizes clarity, accessibility, and structured content presentation.
-
-**What I Built & Learned:**
-- Created an organized notes layout
-- Designed a clean interface for easy readability
-- Focused on usability for students
-- Practiced consistent styling across pages
-
 **Tech Stack:**  
 `HTML` · `CSS` . `JavaScript`
 
@@ -96,15 +76,6 @@ OpenNotes Hub is a student-focused notes-sharing platform created to make studyi
 
 ### 🎯 Interview Buddy  
 🔗 **Live:** [Click Here](https://interview-buddy.netlify.app/)
-
-**Description:**  
-Interview Buddy is a preparation tool designed to help beginners get ready for interviews. It presents important topics in a simple and easy-to-understand format.
-
-**What I Built & Learned:**
-- Designed a beginner-friendly interface
-- Structured interview preparation content
-- Improved layout consistency
-- Learned how to present information clearly
 
 **Tech Stack:**  
 `HTML` · `CSS` . `JavaScript` . `Web Speech API` 
@@ -114,15 +85,6 @@ Interview Buddy is a preparation tool designed to help beginners get ready for i
 ### ✨ AryanVerse Particles  
 🔗 **Live:** [Click Here](https://aryanverseparticles.netlify.app/)
 
-**Description:**  
-AryanVerse Particles is an interactive creative project that showcases particle animations and motion effects. It focuses on visual creativity and user's Hand Gesture interaction.
-
-**What I Built & Learned:**
-- Implemented particle-based animations
-- uses hand gesture to control the particles
-- Improved performance and smooth motion
-- Learned how animations enhance user experience
-
 **Tech Stack:**  
 `JavaScript` · `HTML` · `CSS` . `Three.js` . `WebGL` . `MediaPipe` . `GLSL Shaders`
 
@@ -130,21 +92,6 @@ AryanVerse Particles is an interactive creative project that showcases particle 
 
 ### 🔤 Particle Text Morphing  
 🔗 **Live:** [Click Here](https://particle-text-morphing.vercel.app/)
-
-**Description:**  
-Aryan Name Particles is a personal branding project where my name is displayed using animated particles, combining creativity with frontend development.
-
-**What I Built & Learned:**
-- Built custom text-based particle animations
-- Improved animation timing and transitions
-- Enhanced personal branding through visuals
-- Practiced creative coding techniques
-
-**Tech Stack:**  
-`Three.js` · `JavaScript` · `GSAP` · `HTML` · `CSS` · `WebGL`
-
----
-
 
 ## 🎯 Future Goals
 
