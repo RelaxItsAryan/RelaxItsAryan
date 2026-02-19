@@ -8,7 +8,7 @@ I'm Aryan, a motivated and ambitious first-year college student with a passion f
 
 ## 🫠 About Me
 
-Based in Faridabad, Haryana, I'm currently pursuing my studies in Computer Science. I strive to learn and grow in the field while contributing to innovative projects that make a difference.
+Based in Faridabad, Haryana, I'm currently pursuing my studies in Computer Science with Specialization in Artificial Intelligence and Machine Learning. I strive to learn and grow in the field while contributing to innovative projects that make a difference.
 
 ## 🌐  Portfolio
 
