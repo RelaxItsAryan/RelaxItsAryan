@@ -93,6 +93,9 @@ Check out my [Portfolio Website](https://aryan-verse.netlify.app/) for my latest
 ### 🔤 Particle Text Morphing  
 🔗 **Live:** [Click Here](https://particle-text-morphing.vercel.app/)
 
+**Tech Stack:**  
+`JavaScript` · `HTML` · `CSS` . `Three.js` . `WebGL` . `MediaPipe` . `GLSL Shaders`
+
 ## 🎯 Future Goals
 
 - Learn advanced **Backend** concepts
@@ -108,9 +111,15 @@ Check out my [Portfolio Website](https://aryan-verse.netlify.app/) for my latest
 ---
 
 <p align="center">
-  <img height="150" width="150" src="imgs/left.webp"/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RelaxItsAryan&theme=dark" alt="GitHub Streak" /></a>
-  <img height="150" width="150" src="imgs/right.webp"/>
+
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RelaxItsAryan&show_icons=true&theme=tokyonight"/>
+
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RelaxitsAryan&layout=compact&theme=tokyonight"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=RelaxItsAryan&theme=tokyonight"/>
+
 </p>
 
 ---
