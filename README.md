@@ -105,27 +105,15 @@ Check out my [Portfolio Website](https://aryan-verse.netlify.app/) for my latest
 
 ## GitHub Stats
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/relaxitsaryan">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=RelaxItsAryan&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/relaxitsaryan">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=RelaxItsAryan&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<br />
+---
+
+<p align="center">
+  <img height="150" width="150" src="imgs/left.webp"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RelaxItsAryan&theme=dark" alt="GitHub Streak" /></a>
+  <img height="150" width="150" src="imgs/right.webp"/>
+</p>
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
