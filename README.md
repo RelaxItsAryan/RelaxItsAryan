@@ -42,11 +42,35 @@ Check out my [Portfolio Website](https://aryan-verse.netlify.app/) for my latest
 
 ## 🌟 Projects (Detailed Overview)
 
-### 🧭 Safar-Sathi-AI 
-🔗 Live: [Click Here](https://safar-sathi-ai.vercel.vercel.app)
+### 🧭 Tap2Gyaan
+🔗 Live: [Click Here](https://tap2gyaan.vercel.app)
 
 **Tech Stack:**
-`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `HTML` · `Supabase` . `API`
+`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Supabase` . `Grok API`
+
+---
+
+### 🧭 Apna Rozgaar
+🔗 Live: [Click Here](https://apnarozgaar.vercel.app)
+
+**Tech Stack:**
+`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Supabase` . `Grok API`
+
+---
+
+### 🧭 NexBoard
+🔗 Live: [Click Here](https://nexboard24.vercel.app)
+
+**Tech Stack:**
+`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Supabase` . `Grok API`
+
+---
+
+### 🧭 Safar-Sathi-AI 
+🔗 Live: [Click Here](https://safar-sathi-ai.vercel.app)
+
+**Tech Stack:**
+`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Supabase` . `Pexels API`
 
 ---
 
@@ -59,7 +83,7 @@ Check out my [Portfolio Website](https://aryan-verse.netlify.app/) for my latest
 ---
 
 ### 🌵 Desert Runner
-🔗 Live: [Click Here](https://desert-runner-still-loading.netlify.app/)
+🔗 Live: [Click Here](https://speedbreakers.netlify.app/)
 
 **Tech Stack:**
 `React` · `TypeScript` · `Vite` · `Tailwind CSS` · `HTML` · `JavaScript`
@@ -87,6 +111,8 @@ Check out my [Portfolio Website](https://aryan-verse.netlify.app/) for my latest
 
 **Tech Stack:**  
 `JavaScript` · `HTML` · `CSS` . `Three.js` . `WebGL` . `MediaPipe` . `GLSL Shaders`
+
+---
 
 ## 🎯 Future Goals
 
