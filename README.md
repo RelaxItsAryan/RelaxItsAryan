@@ -30,6 +30,9 @@ Check out my [Portfolio Website](https://aryan-verse.netlify.app/) for my latest
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![THREEJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-93CF2B?style=for-the-badge&logo=greensock&logoColor=white) ![VITE](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
+### ⚙️ Backend & Databases
+
+![](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) ![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 ### 🎨 UI/UX
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
 
@@ -42,7 +45,7 @@ Check out my [Portfolio Website](https://aryan-verse.netlify.app/) for my latest
 
 ## 🌟 Projects (Detailed Overview)
 
-### 🧭 Tap2Gyaan
+### 💻 Tap2Gyaan
 🔗 Live: [Click Here](https://tap2gyaan.vercel.app)
 
 **Tech Stack:**
@@ -50,7 +53,7 @@ Check out my [Portfolio Website](https://aryan-verse.netlify.app/) for my latest
 
 ---
 
-### 🧭 Apna Rozgaar
+### 🧑‍🦽‍➡️ Apna Rozgaar
 🔗 Live: [Click Here](https://apnarozgaar.vercel.app)
 
 **Tech Stack:**
@@ -58,7 +61,7 @@ Check out my [Portfolio Website](https://aryan-verse.netlify.app/) for my latest
 
 ---
 
-### 🧭 NexBoard
+### 📋 NexBoard
 🔗 Live: [Click Here](https://nexboard24.vercel.app)
 
 **Tech Stack:**
