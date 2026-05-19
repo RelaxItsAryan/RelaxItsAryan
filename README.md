@@ -8,6 +8,12 @@ I'm Aryan, a motivated and ambitious first-year college student with a passion f
 
 ## 🫠 About Me
 
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full%20Stack%20MERN%20Developer%3BBuilding%20things%20on%20the%20internet" alt="Typing SVG" />
+  </a>
+</p>
 Spawned in Faridabad, Haryana, I'm currently pursuing my studies in Computer Science with Specialization in Artificial Intelligence and Machine Learning'25th Batch. I strive to learn and grow in the field while contributing to innovative projects that make a difference.
 
 ## 🌐  Portfolio
@@ -45,6 +51,19 @@ Check out my [Portfolio Website](https://aryan-verse.netlify.app/) for my latest
 ### 🤖 AI Tools 
 ![CHATGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![GEMINI](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white) ![](https://custom-icon-badges.demolab.com/badge/comet%20ml-262c3e?style=for-the-badge&logo=logo_comet_ml&logoColor=white) ![](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
 
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=relaxitsaryan&theme=nord&no-frame=true&row=1&column=4"/>
+</p>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <a href="https://github.com/relaxitsaryan">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=relaxitsaryan&custom_title=Activity%20Graph&bg_color=0d1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
+  </a>
+</p>
 
 ## 🌟 Projects (Detailed Overview)
 
