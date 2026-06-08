@@ -51,12 +51,6 @@ Check out my [Portfolio Website](https://aryan-verse.netlify.app/) for my latest
 ### 🤖 AI Tools 
 ![CHATGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![GEMINI](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white) ![](https://custom-icon-badges.demolab.com/badge/comet%20ml-262c3e?style=for-the-badge&logo=logo_comet_ml&logoColor=white) ![](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=relaxitsaryan&theme=nord&no-frame=true&row=1&column=4"/>
-</p>
-
 ## 📈 Activity Graph
 
 <p align="center">
@@ -99,14 +93,6 @@ Check out my [Portfolio Website](https://aryan-verse.netlify.app/) for my latest
 
 ---
 
-### 🩺 Nova Care
-🔗 Live: [Click Here](https://nova-care-still-loading.vercel.app/)
-
-**Tech Stack:**
-`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `JavaScript`· `API`
-
----
-
 ### 🌵 Desert Runner
 🔗 Live: [Click Here](https://speedbreakers.netlify.app/)
 
@@ -123,16 +109,8 @@ Check out my [Portfolio Website](https://aryan-verse.netlify.app/) for my latest
 
 ---
 
-### ✨ AryanVerse Particles  
+### ✨ Particle Controller  
 🔗 **Live:** [Click Here](https://aryanverseparticles.netlify.app/)
-
-**Tech Stack:**  
-`JavaScript` · `HTML` · `CSS` . `Three.js` . `WebGL` . `MediaPipe` . `GLSL Shaders`
-
----
-
-### 🔤 Particle Text Morphing  
-🔗 **Live:** [Click Here](https://particle-text-morphing.vercel.app/)
 
 **Tech Stack:**  
 `JavaScript` · `HTML` · `CSS` . `Three.js` . `WebGL` . `MediaPipe` . `GLSL Shaders`
@@ -145,7 +123,7 @@ Check out my [Portfolio Website](https://aryan-verse.netlify.app/) for my latest
 - Start working with **Next.js and Web3**
 - Build more **interactive and Full-Stack projects**
 - Contribute to **open-source projects**
-
+- Focusing on Machine and Deep Learning
 
 
 ## GitHub Stats
