@@ -77,22 +77,6 @@ Check out my [Portfolio Website](https://aryan-verse.netlify.app/) for my latest
 
 ---
 
-### 📋 NexBoard
-🔗 Live: [Click Here](https://nexboard24.vercel.app)
-
-**Tech Stack:**
-`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Supabase` . `Grok API`
-
----
-
-### 🧭 Safar-Sathi-AI 
-🔗 Live: [Click Here](https://safar-sathi-ai.vercel.app)
-
-**Tech Stack:**
-`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Supabase` . `Pexels API`
-
----
-
 ### 🌵 Desert Runner
 🔗 Live: [Click Here](https://speedbreakers.netlify.app/)
 
