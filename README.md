@@ -67,6 +67,8 @@ Check out my [Portfolio Website](https://aryan-verse.netlify.app/) for my latest
 **Tech Stack:**
 `Next` · `TypeScript` · `Vite` · `Tailwind CSS` · `Firebasebase` · `groq whisper` · `getstream.io`
 
+---
+
 ### 💻 Tap2Gyaan
 🔗 Live: [Click Here](https://tap2gyaan.vercel.app)
 
