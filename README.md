@@ -61,11 +61,17 @@ Check out my [Portfolio Website](https://aryan-verse.netlify.app/) for my latest
 
 ## 🌟 Projects (Detailed Overview)
 
+### 💻 MeetSync
+🔗 Live: [Click Here](https://meetsync-xcelerators.vercel.app)
+
+**Tech Stack:**
+`Next` · `TypeScript` · `Vite` · `Tailwind CSS` · `Firebasebase` · `groq whisper` · `getstream.io`
+
 ### 💻 Tap2Gyaan
 🔗 Live: [Click Here](https://tap2gyaan.vercel.app)
 
 **Tech Stack:**
-`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Supabase` . `Grok API`
+`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Firebase` . `groq Model`
 
 ---
 
@@ -73,7 +79,7 @@ Check out my [Portfolio Website](https://aryan-verse.netlify.app/) for my latest
 🔗 Live: [Click Here](https://apnarozgaar.vercel.app)
 
 **Tech Stack:**
-`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Supabase` . `Grok API`
+`React` · `JavaScript` · `Vite` · `Tailwind CSS` · `Supabase` . `groq Model`
 
 ---
 
