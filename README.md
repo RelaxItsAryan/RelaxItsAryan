@@ -4,7 +4,7 @@
 
 ## Hi there! 👋
 
-I'm Aryan, a motivated and ambitious first-year college student with a passion for Computer Science. I'm dedicated to academic excellence and eager to contribute to exciting projects in the tech world!
+I'm Aryan, a motivated and ambitious second-year college student with a passion for Computer Science. I'm dedicated to academic excellence and eager to contribute to exciting projects in the tech world!
 
 ## 🫠 About Me
 
