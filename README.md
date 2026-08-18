@@ -78,7 +78,7 @@ Check out my [Portfolio Website](https://aryan-verse.netlify.app/) for my latest
 ---
 
 ### 🧑‍🦽‍➡️ Apna Rozgaar
-🔗 Live: [Click Here](https://apnarozgaar.vercel.app)
+🔗 Live: [Click Here](https://apnarozgar.vercel.app)
 
 **Tech Stack:**
 `React` · `JavaScript` · `Vite` · `Tailwind CSS` · `Supabase` . `groq Model`
@@ -122,11 +122,11 @@ Check out my [Portfolio Website](https://aryan-verse.netlify.app/) for my latest
 
 ---
 
-<p align="center">
+<p align="left">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RelaxItsAryan&show_icons=true&theme=tokyonight"/>
+![GitHub Stats Card](https://ghstats.dev/api/card?username=relaxitsaryan&theme=radical)
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RelaxitsAryan&layout=compact&theme=tokyonight"/>
+![Top Languages](https://ghstats.dev/api/langs?username=relaxitsaryan&theme=radical)
 
 <br/>
 
